@@ -13,6 +13,7 @@ for row in apart:
             # 102 호
             # 한라인당 하나씩 출력
             print(col, "호")
+# 들여쓰기로 반복x
 print("-" * 5)
 
 # 결과 :
