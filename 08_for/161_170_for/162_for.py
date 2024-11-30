@@ -1,6 +1,6 @@
 # 162 for
 
-for olympics in range(2002, 2051, 4): # 2002~2051 범위 지정, 4씩 증감
+for olympics in range(2002, 2051, 4): # 2002~2051 범위 지정, 4씩 증가
     print(olympics) #2051 초과 전까지 출력
 
 # 결과 : 
